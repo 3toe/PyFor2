@@ -1,0 +1,1 @@
+The second basic "for loop" exercise for a bootcamp assignment
